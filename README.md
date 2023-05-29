@@ -23,7 +23,7 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
-	![Node](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=node&logoColor=white)
+	![Node](https://img.shields.io/badge/Node%20-%232370ED.svg?style=for-the-badge&logo=node&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![Solidity](https://img.shields.io/badge/Solidity%20-%2314354C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -40,8 +40,8 @@
 
 - **Cloud Hosting**:
 
-    ![AWS](https://img.shields.io/badge/AWS%20Pages-%23327FC7.svg?style=for-the-badge&logo=aws&logoColor=white)
-	![GCP](https://img.shields.io/badge/GCP%20Pages-%23327FC7.svg?style=for-the-badge&logo=aws&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS%20-%23327FC7.svg?style=for-the-badge&logo=aws&logoColor=white)
+	![GCP](https://img.shields.io/badge/GCP%20-%23327FC7.svg?style=for-the-badge&logo=gcp&logoColor=white)
     
 <br>
 
