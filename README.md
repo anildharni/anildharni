@@ -10,9 +10,8 @@
 **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate Fullstack Developer with a knack in Devops.
+- A passionate Fullstack Developer with an AWS Developer Associate Certification.
 - Currently authroised to work in United States and looking for opportunities here.
-- Here's my portfolio website [anildharni.com](https://www.anildharni.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
